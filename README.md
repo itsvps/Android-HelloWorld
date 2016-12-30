@@ -1,3 +1,3 @@
 Android basic Hello World app
 
-Built using Anroid studio.
+Build using Anroid studio.
